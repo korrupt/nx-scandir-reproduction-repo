@@ -5,6 +5,11 @@ dist
 tmp
 /out-tsc
 
+/database
+/database/data
+/database/**
+database
+
 # dependencies
 node_modules
 
